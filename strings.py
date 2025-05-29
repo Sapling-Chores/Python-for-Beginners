@@ -125,3 +125,22 @@ print()
 # ---------------------------------------
 print("Raw Strings:")
 print(r"C:\new\folder")        # Backslashes are not treated as escape characters
+
+
+# Multiline String
+
+print('''This is multi 
+string and you can use's'
+or "s" inverted comma like this one .       
+      ''')
+
+
+# Using in / not in operation
+
+print("py" in "python")       # True
+print("java" not in "python") # True
+
+# Looping through string
+
+for ch in "abc":
+    print(ch)
