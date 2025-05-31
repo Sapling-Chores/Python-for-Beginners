@@ -53,3 +53,16 @@ print(math.degrees(math.pi/6)) # 29.999999999999996
 print(math.radians(180)) # 3.141592653589793
 print(math.radians(60)) # 1.0471975511965976
 print(math.radians(30)) # 0.5235987755982988
+
+print(math.tan(math.radians(30))) # 0.5773502691896257
+print(math.tan(math.radians(45))) # .9999999999998
+print(math.sin(math.radians(0)))  # 0.0
+print(math.tan(math.radians(90))) #ifnity
+
+print(math.gcd(100,120)) #20
+print(math.gcd(4,5)) #1
+print(math.lcm(12,4,6,5)) #60
+print(math.lcm(3,6,8,4)) #24
+print(math.isqrt(17)) #4
+print(math.isqrt(35)) #5
+print(math.isqrt(37)) #6
