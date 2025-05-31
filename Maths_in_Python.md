@@ -1,5 +1,16 @@
 # 🔸 Special Notes
 
+
+---
+
+# README — Overview of Advanced Math Functions in Python
+
+This script demonstrates advanced mathematical operations using Python's built-in `math` module, beyond basic arithmetic and operator precedence.
+
+---
+
+## Key Highlights
+
 - `/` always returns a **float**, even if the division is perfectly divisible.  
   Example: `4 / 2` → `2.0`
 
@@ -30,16 +41,6 @@ This document outlines the levels of operator precedence in Python, from highest
 | 9 (Lowest)       | `or`                                          |
 
 
-
----
-
-# README — Overview of Advanced Math Functions in Python
-
-This script demonstrates advanced mathematical operations using Python's built-in `math` module, beyond basic arithmetic and operator precedence.
-
----
-
-## Key Highlights
 
 ### Constants
 
