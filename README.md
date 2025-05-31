@@ -13,6 +13,6 @@ The tutorial is broken down into simple, easy-to-follow topics. And by the end, 
 
 ---
 Note : I am also a high school student who is learning Python in 2025 , so i will be sharing some real tips about how I learned Python with the help of Ai and stuffs . Stay tuned for the way in the end !!
-Join My discord we are making a community : https://discord.gg/hp9SHVCZ
+Join My discord we are making a community <a href="https://www.flaticon.com/free-icons/discord" title="discord icons">Discord icons created by Freepik - Flaticon</a>: https://discord.gg/hp9SHVCZ
 
 
